@@ -1,3 +1,6 @@
+> ⚠️ **이 저장소는 더 이상 관리되지 않습니다.**
+> 새 저장소로 이전되었습니다: https://github.com/kollus-service/kollus-sample-react-vue-angular/tree/main/react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
